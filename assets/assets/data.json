@@ -1,0 +1,24 @@
+[
+    { "id": 1, "name":"Canon PowerShot G7 X Mark II", "price":499.90, "category" : "Cameras"}, 
+    { "id": 2, "name":"LG OLED C1 65\" 4K Ultra HD", "price":1399.00, "category" : "Televisions"}, 
+    { "id": 3, "name":"Logitech K120", "price":16.99, "category" : "Keyboards"},
+    { "id": 4, "name":"Apple MacBook Pro 14\" M1 Pro 512GB ", "price":2199.99, "category" : "Computers"},
+    { "id": 5, "name":"Xiaomi 11T", "price":299.00, "category" : "Phones"}, 
+    { "id": 6, "name":"Corsair K60 RGB PRO Low Profile", "price":129.99, "category" : "Keyboards"}, 
+    { "id": 7, "name":"Lenovo ThinkPad t14 Gen 3", "price":1649.99, "category" : "Computers"}, 
+    { "id": 8, "name":"Asus ROG Strix GA15", "price":1394.90, "category" : "Computers"}, 
+    { "id": 9, "name":"Apple Magic Keyboard", "price":134.99, "category" : "Keyboards"}, 
+    { "id": 10, "name":"Samsung UE55AU7172 55\" 4K Ultra HD LED", "price":579.00, "category" : "Televisions"}, 
+    { "id": 11, "name":"Philips 70PUS8536 70\" Smart Android 4K Ultra HD LED", "price":699.00, "category" : "Televisions"}, 
+    { "id": 12, "name":"Samsung Galaxy A13", "price":149.00, "category" : "Phones"}, 
+    { "id": 13, "name":"Apple iPhone 14 Pro Max", "price":2148.99, "category" : "Phones"}, 
+    { "id": 14, "name":"Sony ZV-1F", "price":699.99, "category" : "Cameras"}, 
+    { "id": 15, "name":"Blackstorm RGB MEch 2021 60% Dual Mode", "price":59.99, "category" : "Keyboards"}, 
+    { "id": 16, "name":"LG 50UQ7000 50\" 4K LED", "price":349.00, "category" : "Televisions"}, 
+    { "id": 17, "name":"Samsung Galaxy Z Fold4", "price":1878.99, "category" : "Phones"}, 
+    { "id": 18, "name":"Fujifilm X100V", "price":1669.99, "category" : "Cameras"}, 
+    { "id": 19, "name":"Sony RX10 IV", "price":1849.99, "category" : "Cameras"}, 
+    { "id": 20, "name":"HP Pavilion Gaming Desktop TG01-2074", "price":999.99, "category" : "Computers"} 
+] 
+
+
